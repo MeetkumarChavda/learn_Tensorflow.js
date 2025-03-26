@@ -2,8 +2,7 @@
 // setupm webcam and canvas 
 // define refrance to those
 // load facemesh
-// Detect function done till here 
-//////
+// Detect function 
 // Drawing utilities
 //load triangulations
 // setup triange path
